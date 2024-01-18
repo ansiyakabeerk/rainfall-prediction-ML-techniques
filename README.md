@@ -1,6 +1,8 @@
-Rainfall Prediction using Machine Learning Techniques
+**Rainfall Prediction using Machine Learning Techniques**
 
 OVERVIEW OF THE PROJECT 
+
+
    Rainfall forecasting is very important because heavy and irregular rainfall can 
 have many impacts like destruction of crops and farms, damage of property so a better 
 forecasting model is essential for an early warning that can minimize risks to life and 
@@ -20,7 +22,9 @@ The estimation of rainfall is of great importance in terms ofwater resources man
 human life and theirenvironment. It can be met with the incorrect or incomplete estimation 
 problems because rainfall estimation is affectedfrom the geographical and regional changes and 
 properties. This project contains different methods used for rainfall prediction.
-.
+
+
+
 OBJECTIVE OF PROJECT
  
   The main objective of our thesis are,
@@ -31,6 +35,8 @@ conditions in Australia and it can able to find the best model since I use
 more models 
  finally I will display all the accuracy % using data visualization in 
 graphs,blot,heatmap etc..
+
+
 SOFTWARE & PACKAGES SPECIFICATION
   
  Pandas (version : 1.4.4)
